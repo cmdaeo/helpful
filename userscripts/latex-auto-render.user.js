@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Latex Auto Render
 // @description  Force-renders LaTeX math ($...$) that fails to display in AI chats like ChatGPT, Claude, and Perplexity.
-// @namespace    https://github.com/cmdaeo
+// @namespace    https://github.com/cmdaeo/helpful
 // @version      1.1
 // @author       cmdaeo
 // @license      MIT
